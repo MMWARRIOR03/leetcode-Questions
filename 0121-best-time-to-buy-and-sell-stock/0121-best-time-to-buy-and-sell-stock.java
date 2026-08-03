@@ -7,7 +7,7 @@ class Solution {
                 min=price;
             }
             else{
-                profit=Math.max(profit,price-min);
+                profit=Math.max(price-min,profit);
             }
         }
         return profit;
