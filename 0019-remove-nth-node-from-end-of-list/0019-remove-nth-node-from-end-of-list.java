@@ -13,8 +13,6 @@ class Solution {
         if(head==null||head.next==null){
             return null;
         }
-        int m=n;
-        int a=1;
         ListNode prev=head;
         ListNode curr=head;
         for(int i=0;i<n;i++){
