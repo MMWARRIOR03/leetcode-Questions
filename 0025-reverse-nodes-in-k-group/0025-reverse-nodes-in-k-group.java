@@ -16,8 +16,6 @@ class Solution {
             len=len.next;
             n++;
         }
-
-        int stop=n-(n%k);
         int groups=n/k;
         ListNode dummy=new ListNode(0);
         dummy.next=head;
