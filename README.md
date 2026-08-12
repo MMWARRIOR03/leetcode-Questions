@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0229-majority-element-ii](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0229-majority-element-ii) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0141-linked-list-cycle) |
