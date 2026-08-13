@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0229-majority-element-ii](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0229-majority-element-ii) |
 ## Binary Search
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
