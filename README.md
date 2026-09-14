@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0152-maximum-product-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -90,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 ## Database
 |  |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
