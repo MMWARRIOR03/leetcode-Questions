@@ -4,7 +4,7 @@ class Solution {
         int r=height.length-1;
         int lMax=0,rMax=0;
         int water=0;
-        while(l<=r){
+        while(l<r){
             if(height[l]<=height[r]){
                 if(height[l]>=lMax){
                     lMax=height[l];
