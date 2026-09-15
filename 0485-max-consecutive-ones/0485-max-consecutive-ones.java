@@ -5,7 +5,9 @@ class Solution {
         for(int num:nums){
             if(num==1){
                 max++;
-                maxOnes=Math.max(maxOnes,max);
+                if(maxOnes<max){
+                    maxOnes=max;
+                }
             }
             else{
                 max=0;
