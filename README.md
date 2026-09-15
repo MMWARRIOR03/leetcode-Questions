@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MMWARRIOR03/leetcode-Questions/tree/master/0141-linked-list-cycle) |
